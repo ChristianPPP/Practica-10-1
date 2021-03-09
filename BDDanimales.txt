@@ -1,0 +1,4 @@
+Lista de animales registrados:
+Nombre del animal n°1: Vaca 
+Peso del animal n°1: Mamifero 
+Tipo del animal n°1: 17.50 
